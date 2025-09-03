@@ -1,0 +1,115 @@
+Live logs will appear here...
+
+[INFO] Starting process...
+[INFO] Process completed successfully
+
+data:Cloning into 'RobotTesting'...
+data:
+
+data:==============================================================================
+data:
+
+data:2025-03-25T09-32-43                                                           
+data:
+
+data:==============================================================================
+data:
+
+data:2025-03-25T09-32-43.RobotTesting                                              
+data:
+
+data:==============================================================================
+data:
+
+data:2025-03-25T09-32-43.RobotTesting.Test Script                                  
+data:
+
+data:==============================================================================
+data:
+
+data:Open Browser to Example                                               | FAIL |
+data:
+
+data:No keyword with name 'Open Browser' found.
+data:
+
+data:
+data:
+
+data:Also teardown failed:
+data:
+
+data:No keyword with name 'Close Browser' found.
+data:
+
+data:------------------------------------------------------------------------------
+data:
+
+data:Verify Example Content                                                | FAIL |
+data:
+
+data:Setup failed:
+data:
+
+data:No keyword with name 'Open Browser to Example' found.
+data:
+
+data:
+data:
+
+data:Also teardown failed:
+data:
+
+data:No keyword with name 'Close Browser' found.
+data:
+
+data:------------------------------------------------------------------------------
+data:
+
+data:Verify Example Content1                                               Example Domain
+data:
+
+data:| PASS |
+data:
+
+data:------------------------------------------------------------------------------
+data:
+
+data:2025-03-25T09-32-43.RobotTesting.Test Script                          | FAIL |
+data:
+
+data:3 tests, 1 passed, 2 failed
+data:
+
+data:==============================================================================
+data:
+
+data:2025-03-25T09-32-43.RobotTesting                                      | FAIL |
+data:
+
+data:3 tests, 1 passed, 2 failed
+data:
+
+data:==============================================================================
+data:
+
+data:2025-03-25T09-32-43                                                   | FAIL |
+data:
+
+data:3 tests, 1 passed, 2 failed
+data:
+
+data:==============================================================================
+data:
+
+data:Output:  /app/RobotTesting/2025-03-25T09-32-43/output.xml
+data:
+
+data:Log:     /app/RobotTesting/2025-03-25T09-32-43/log.html
+data:
+
+data:Report:  /app/RobotTesting/2025-03-25T09-32-43/report.html
+data:
+
+data:Response from insertIntoDatabase: XML parsed and data inserted successfully!
+
